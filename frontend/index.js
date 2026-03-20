@@ -2653,7 +2653,9 @@ const kidsData = {
 
 async function initializePage() {
     try {
-        const apiBase = (window.API_BASE_URL || window.location.origin).replace(/\/$/, "");
+        // Read API base from meta tag if set; otherwise fallback to window.API_BASE_URL or same origin
+        const metaApiBase = document.querySelector('meta[name="api-base"]')?.getAttribute('content');
+        const apiBase = (metaApiBase || window.API_BASE_URL || window.location.origin).replace(/\/$/, "");
 
         const response = Jan
             ? await fetch(`${apiBase}/dataJan`)

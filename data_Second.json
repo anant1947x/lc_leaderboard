@@ -139,11 +139,20 @@
     "dayi": "Day Scholars",
     "mobno": "8923067296",
     "username": "Gopeshsharmaa",
-    "totalSolved": 865,
+    "totalSolved": 866,
     "easySolved": 309,
-    "mediumSolved": 472,
+    "mediumSolved": 473,
     "hardSolved": 84,
     "recentSubmissions": [
+      {
+        "id": "1954078961",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774023387",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "47.5 MB",
+        "lang": "java"
+      },
       {
         "id": "1953835026",
         "title": "Minimum Cost to Make at Least One Valid Path in a Grid",
@@ -151,15 +160,6 @@
         "statusDisplay": "Accepted",
         "runtime": "13 ms",
         "memory": "46.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953070223",
-        "title": "Reorder Routes to Make All Paths Lead to the City Zero",
-        "timestamp": "1773928693",
-        "statusDisplay": "Accepted",
-        "runtime": "37 ms",
-        "memory": "115.7 MB",
         "lang": "java"
       }
     ]
@@ -172,10 +172,10 @@
     "dayi": "Hostellers",
     "mobno": "7906356609",
     "username": "Ishank_Sharma16",
-    "totalSolved": 824,
+    "totalSolved": 825,
     "easySolved": 154,
     "mediumSolved": 512,
-    "hardSolved": 158,
+    "hardSolved": 159,
     "recentSubmissions": []
   },
   {
@@ -266,11 +266,20 @@
     "dayi": "Hostellers",
     "mobno": "8923410282",
     "username": "rajatsharma27",
-    "totalSolved": 712,
+    "totalSolved": 713,
     "easySolved": 246,
     "mediumSolved": 389,
-    "hardSolved": 77,
+    "hardSolved": 78,
     "recentSubmissions": [
+      {
+        "id": "1954071018",
+        "title": "Palindrome Pairs",
+        "timestamp": "1774022849",
+        "statusDisplay": "Accepted",
+        "runtime": "311 ms",
+        "memory": "207.7 MB",
+        "lang": "java"
+      },
       {
         "id": "1953261470",
         "title": "Replace Words",
@@ -278,15 +287,6 @@
         "statusDisplay": "Accepted",
         "runtime": "46 ms",
         "memory": "136.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953249886",
-        "title": "Concatenated Words",
-        "timestamp": "1773940249",
-        "statusDisplay": "Accepted",
-        "runtime": "81 ms",
-        "memory": "95 MB",
         "lang": "java"
       }
     ]
@@ -459,11 +459,20 @@
     "dayi": "Hostellers",
     "mobno": "8279727953",
     "username": "Suraj_Nagaich",
-    "totalSolved": 635,
+    "totalSolved": 636,
     "easySolved": 201,
-    "mediumSolved": 337,
+    "mediumSolved": 338,
     "hardSolved": 97,
     "recentSubmissions": [
+      {
+        "id": "1954105429",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774025126",
+        "statusDisplay": "Accepted",
+        "runtime": "27 ms",
+        "memory": "47.3 MB",
+        "lang": "java"
+      },
       {
         "id": "1952691560",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -471,15 +480,6 @@
         "statusDisplay": "Accepted",
         "runtime": "38 ms",
         "memory": "249.7 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952031498",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773832083",
-        "statusDisplay": "Accepted",
-        "runtime": "7 ms",
-        "memory": "161.3 MB",
         "lang": "java"
       }
     ]
@@ -525,26 +525,26 @@
     "dayi": "Hostellers",
     "mobno": "8650264535",
     "username": "Himanshu_Kshatriya07",
-    "totalSolved": 625,
+    "totalSolved": 626,
     "easySolved": 273,
-    "mediumSolved": 284,
+    "mediumSolved": 285,
     "hardSolved": 68,
     "recentSubmissions": [
+      {
+        "id": "1954126865",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774026448",
+        "statusDisplay": "Accepted",
+        "runtime": "12 ms",
+        "memory": "47.9 MB",
+        "lang": "java"
+      },
       {
         "id": "1953075903",
         "title": "Game Play Analysis I",
         "timestamp": "1773929094",
         "statusDisplay": "Accepted",
         "runtime": "497 ms",
-        "memory": "0.0B",
-        "lang": "mysql"
-      },
-      {
-        "id": "1953069942",
-        "title": "Reformat Department Table",
-        "timestamp": "1773928675",
-        "statusDisplay": "Accepted",
-        "runtime": "457 ms",
         "memory": "0.0B",
         "lang": "mysql"
       }
@@ -690,11 +690,20 @@
     "dayi": "Hostellers",
     "mobno": "7037900711",
     "username": "Abhay_Pratap_9007",
-    "totalSolved": 595,
+    "totalSolved": 596,
     "easySolved": 371,
-    "mediumSolved": 207,
+    "mediumSolved": 208,
     "hardSolved": 17,
     "recentSubmissions": [
+      {
+        "id": "1954130944",
+        "title": "Clone Graph",
+        "timestamp": "1774026699",
+        "statusDisplay": "Accepted",
+        "runtime": "50 ms",
+        "memory": "19.5 MB",
+        "lang": "python3"
+      },
       {
         "id": "1952904716",
         "title": "Is Graph Bipartite?",
@@ -702,15 +711,6 @@
         "statusDisplay": "Accepted",
         "runtime": "4 ms",
         "memory": "20.7 MB",
-        "lang": "python3"
-      },
-      {
-        "id": "1952850020",
-        "title": "Find Eventual Safe States",
-        "timestamp": "1773909711",
-        "statusDisplay": "Accepted",
-        "runtime": "35 ms",
-        "memory": "28.1 MB",
         "lang": "python3"
       }
     ]
@@ -789,9 +789,9 @@
     "dayi": "Hostellers",
     "mobno": "7668777328",
     "username": "ayushmaan1630",
-    "totalSolved": 585,
+    "totalSolved": 586,
     "easySolved": 182,
-    "mediumSolved": 305,
+    "mediumSolved": 306,
     "hardSolved": 98,
     "recentSubmissions": []
   },
@@ -1087,21 +1087,21 @@
     "hardSolved": 16,
     "recentSubmissions": [
       {
+        "id": "1954099276",
+        "title": "Reverse Integer",
+        "timestamp": "1774024744",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "42.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953324140",
         "title": "Combination Sum",
         "timestamp": "1773944373",
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "45.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952305834",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773852989",
-        "statusDisplay": "Accepted",
-        "runtime": "5 ms",
-        "memory": "164.8 MB",
         "lang": "java"
       }
     ]
@@ -1120,21 +1120,21 @@
     "hardSolved": 16,
     "recentSubmissions": [
       {
+        "id": "1954099276",
+        "title": "Reverse Integer",
+        "timestamp": "1774024744",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "42.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953324140",
         "title": "Combination Sum",
         "timestamp": "1773944373",
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "45.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952305834",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773852989",
-        "statusDisplay": "Accepted",
-        "runtime": "5 ms",
-        "memory": "164.8 MB",
         "lang": "java"
       }
     ]
@@ -1827,21 +1827,21 @@
     "hardSolved": 29,
     "recentSubmissions": [
       {
+        "id": "1954088233",
+        "title": "Edit Distance",
+        "timestamp": "1774024008",
+        "statusDisplay": "Accepted",
+        "runtime": "153 ms",
+        "memory": "10.4 MB",
+        "lang": "cpp"
+      },
+      {
         "id": "1953652941",
         "title": "Longest Common Subsequence",
         "timestamp": "1773986248",
         "statusDisplay": "Accepted",
         "runtime": "52 ms",
         "memory": "13 MB",
-        "lang": "cpp"
-      },
-      {
-        "id": "1952708442",
-        "title": "Climbing Stairs",
-        "timestamp": "1773897746",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "7.7 MB",
         "lang": "cpp"
       }
     ]
@@ -2091,21 +2091,21 @@
     "hardSolved": 55,
     "recentSubmissions": [
       {
+        "id": "1954143388",
+        "title": "Longest Increasing Subsequence",
+        "timestamp": "1774027453",
+        "statusDisplay": "Accepted",
+        "runtime": "363 ms",
+        "memory": "236.7 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953374507",
         "title": "Two Sum",
         "timestamp": "1773948134",
         "statusDisplay": "Accepted",
         "runtime": "36 ms",
         "memory": "47 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951905423",
-        "title": "Diameter of Binary Tree",
-        "timestamp": "1773821746",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "47.4 MB",
         "lang": "java"
       }
     ]
@@ -2382,11 +2382,20 @@
     "dayi": "Hostellers",
     "mobno": "7017441970",
     "username": "kartik_7017",
-    "totalSolved": 401,
+    "totalSolved": 402,
     "easySolved": 221,
-    "mediumSolved": 162,
+    "mediumSolved": 163,
     "hardSolved": 18,
     "recentSubmissions": [
+      {
+        "id": "1954128815",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774026566",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.5 MB",
+        "lang": "java"
+      },
       {
         "id": "1952857419",
         "title": "Squares of a Sorted Array",
@@ -2394,15 +2403,6 @@
         "statusDisplay": "Accepted",
         "runtime": "10 ms",
         "memory": "47.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951926370",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773823610",
-        "statusDisplay": "Accepted",
-        "runtime": "7 ms",
-        "memory": "161 MB",
         "lang": "java"
       }
     ]
@@ -3386,11 +3386,20 @@
     "dayi": "Hostellers",
     "mobno": "7505990038",
     "username": "bhanupratap23",
-    "totalSolved": 359,
+    "totalSolved": 360,
     "easySolved": 202,
-    "mediumSolved": 149,
+    "mediumSolved": 150,
     "hardSolved": 8,
     "recentSubmissions": [
+      {
+        "id": "1954137188",
+        "title": "Longest Increasing Subsequence",
+        "timestamp": "1774027078",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "45.8 MB",
+        "lang": "java"
+      },
       {
         "id": "1953820795",
         "title": "Balanced Binary Tree",
@@ -3398,15 +3407,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "45.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953022499",
-        "title": "Minimum Absolute Difference in BST",
-        "timestamp": "1773925086",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "46.6 MB",
         "lang": "java"
       }
     ]
@@ -3419,11 +3419,20 @@
     "dayi": "Day Scholars",
     "mobno": "7505990038",
     "username": "bhanupratap23",
-    "totalSolved": 359,
+    "totalSolved": 360,
     "easySolved": 202,
-    "mediumSolved": 149,
+    "mediumSolved": 150,
     "hardSolved": 8,
     "recentSubmissions": [
+      {
+        "id": "1954137188",
+        "title": "Longest Increasing Subsequence",
+        "timestamp": "1774027078",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "45.8 MB",
+        "lang": "java"
+      },
       {
         "id": "1953820795",
         "title": "Balanced Binary Tree",
@@ -3431,15 +3440,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "45.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953022499",
-        "title": "Minimum Absolute Difference in BST",
-        "timestamp": "1773925086",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "46.6 MB",
         "lang": "java"
       }
     ]
@@ -3452,27 +3452,27 @@
     "dayi": "Hostellers",
     "mobno": "7237048526",
     "username": "ArchitGuptacode",
-    "totalSolved": 358,
+    "totalSolved": 360,
     "easySolved": 153,
-    "mediumSolved": 166,
+    "mediumSolved": 168,
     "hardSolved": 39,
     "recentSubmissions": [
       {
-        "id": "1952320974",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773853845",
+        "id": "1954150512",
+        "title": "Product of Array Except Self",
+        "timestamp": "1774027884",
         "statusDisplay": "Accepted",
-        "runtime": "9 ms",
-        "memory": "168.5 MB",
+        "runtime": "2 ms",
+        "memory": "71.8 MB",
         "lang": "java"
       },
       {
-        "id": "1951194856",
-        "title": "Largest Submatrix With Rearrangements",
-        "timestamp": "1773759146",
+        "id": "1954149161",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774027799",
         "statusDisplay": "Accepted",
-        "runtime": "22 ms",
-        "memory": "113 MB",
+        "runtime": "23 ms",
+        "memory": "47.6 MB",
         "lang": "java"
       }
     ]
@@ -3491,21 +3491,21 @@
     "hardSolved": 13,
     "recentSubmissions": [
       {
-        "id": "1953841153",
-        "title": "Subarray Sum Equals K",
-        "timestamp": "1774003277",
+        "id": "1954129214",
+        "title": "Product of Array Except Self",
+        "timestamp": "1774026591",
         "statusDisplay": "Accepted",
-        "runtime": "1545 ms",
-        "memory": "48.7 MB",
+        "runtime": "1 ms",
+        "memory": "72 MB",
         "lang": "java"
       },
       {
-        "id": "1953836783",
-        "title": "Minimum Size Subarray Sum",
-        "timestamp": "1774002859",
+        "id": "1954106005",
+        "title": "Container With Most Water",
+        "timestamp": "1774025162",
         "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "61.9 MB",
+        "runtime": "6 ms",
+        "memory": "77.3 MB",
         "lang": "java"
       }
     ]
@@ -3518,11 +3518,20 @@
     "dayi": "Hostellers",
     "mobno": "8058928399",
     "username": "Anshul_sharma52",
-    "totalSolved": 356,
+    "totalSolved": 357,
     "easySolved": 193,
-    "mediumSolved": 155,
+    "mediumSolved": 156,
     "hardSolved": 8,
     "recentSubmissions": [
+      {
+        "id": "1954062767",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774022272",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.7 MB",
+        "lang": "java"
+      },
       {
         "id": "1953135952",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -3530,15 +3539,6 @@
         "statusDisplay": "Accepted",
         "runtime": "17 ms",
         "memory": "260.2 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952339993",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773854914",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "161.1 MB",
         "lang": "java"
       }
     ]
@@ -3683,11 +3683,20 @@
     "dayi": "Day Scholars",
     "mobno": "8882948073",
     "username": "Deepika9509",
-    "totalSolved": 342,
+    "totalSolved": 343,
     "easySolved": 120,
-    "mediumSolved": 181,
+    "mediumSolved": 182,
     "hardSolved": 41,
     "recentSubmissions": [
+      {
+        "id": "1954074295",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774023070",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.5 MB",
+        "lang": "java"
+      },
       {
         "id": "1953163973",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -3695,15 +3704,6 @@
         "statusDisplay": "Accepted",
         "runtime": "38 ms",
         "memory": "249.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1950735947",
-        "title": "Find First and Last Position of Element in Sorted Array",
-        "timestamp": "1773724218",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "48 MB",
         "lang": "java"
       }
     ]
@@ -3881,11 +3881,20 @@
     "dayi": "Day Scholars",
     "mobno": "6395661505",
     "username": "cvinay10",
-    "totalSolved": 338,
+    "totalSolved": 339,
     "easySolved": 135,
-    "mediumSolved": 154,
+    "mediumSolved": 155,
     "hardSolved": 49,
     "recentSubmissions": [
+      {
+        "id": "1954113698",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774025632",
+        "statusDisplay": "Accepted",
+        "runtime": "27 ms",
+        "memory": "47.4 MB",
+        "lang": "java"
+      },
       {
         "id": "1953046550",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -3894,14 +3903,38 @@
         "runtime": "37 ms",
         "memory": "249.6 MB",
         "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315510193",
+    "name": "Shiv Kumar",
+    "url": "https://leetcode.com/u/Sk_Shivu/",
+    "section": "CB",
+    "dayi": "Day Scholars",
+    "mobno": "7455088039",
+    "username": "Sk_Shivu",
+    "totalSolved": 337,
+    "easySolved": 206,
+    "mediumSolved": 118,
+    "hardSolved": 13,
+    "recentSubmissions": [
+      {
+        "id": "1954096945",
+        "title": "String Matching in an Array",
+        "timestamp": "1774024589",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "43.6 MB",
+        "lang": "java"
       },
       {
-        "id": "1952657179",
-        "title": "Can Place Flowers",
-        "timestamp": "1773893281",
+        "id": "1954087958",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774023992",
         "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "47.1 MB",
+        "runtime": "25 ms",
+        "memory": "47.5 MB",
         "lang": "java"
       }
     ]
@@ -4006,39 +4039,6 @@
     ]
   },
   {
-    "roll": "2315510193",
-    "name": "Shiv Kumar",
-    "url": "https://leetcode.com/u/Sk_Shivu/",
-    "section": "CB",
-    "dayi": "Day Scholars",
-    "mobno": "7455088039",
-    "username": "Sk_Shivu",
-    "totalSolved": 335,
-    "easySolved": 205,
-    "mediumSolved": 117,
-    "hardSolved": 13,
-    "recentSubmissions": [
-      {
-        "id": "1952889140",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773913255",
-        "statusDisplay": "Accepted",
-        "runtime": "18 ms",
-        "memory": "258.7 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952316409",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773853590",
-        "statusDisplay": "Accepted",
-        "runtime": "5 ms",
-        "memory": "164.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315800009",
     "name": "AKSHAT SOMANI",
     "url": "https://leetcode.com/u/akshatsachinsomani/",
@@ -4072,6 +4072,39 @@
     ]
   },
   {
+    "roll": "2315001074",
+    "name": "Kartik Jadon",
+    "url": "https://leetcode.com/u/kartikjadon/",
+    "section": "R",
+    "dayi": "Day Scholars",
+    "mobno": "7037910844",
+    "username": "kartikjadon",
+    "totalSolved": 334,
+    "easySolved": 120,
+    "mediumSolved": 162,
+    "hardSolved": 52,
+    "recentSubmissions": [
+      {
+        "id": "1954112079",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774025538",
+        "statusDisplay": "Accepted",
+        "runtime": "27 ms",
+        "memory": "46.8 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953048472",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773927139",
+        "statusDisplay": "Accepted",
+        "runtime": "37 ms",
+        "memory": "249.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001530",
     "name": "Nupur Agarwal",
     "url": "https://leetcode.com/u/nupur0809/",
@@ -4100,39 +4133,6 @@
         "statusDisplay": "Accepted",
         "runtime": "15 ms",
         "memory": "48.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001074",
-    "name": "Kartik Jadon",
-    "url": "https://leetcode.com/u/kartikjadon/",
-    "section": "R",
-    "dayi": "Day Scholars",
-    "mobno": "7037910844",
-    "username": "kartikjadon",
-    "totalSolved": 333,
-    "easySolved": 120,
-    "mediumSolved": 161,
-    "hardSolved": 52,
-    "recentSubmissions": [
-      {
-        "id": "1953048472",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773927139",
-        "statusDisplay": "Accepted",
-        "runtime": "37 ms",
-        "memory": "249.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951762618",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773810819",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "164.8 MB",
         "lang": "java"
       }
     ]
@@ -4204,6 +4204,39 @@
     ]
   },
   {
+    "roll": "2315002088",
+    "name": "Shivansh Mittal",
+    "url": "https://leetcode.com/u/ishivxnshh/",
+    "section": "G",
+    "dayi": "Hostellers",
+    "mobno": "7452862988",
+    "username": "ishivxnshh",
+    "totalSolved": 332,
+    "easySolved": 132,
+    "mediumSolved": 175,
+    "hardSolved": 25,
+    "recentSubmissions": [
+      {
+        "id": "1954101779",
+        "title": "Expression Add Operators",
+        "timestamp": "1774024898",
+        "statusDisplay": "Accepted",
+        "runtime": "392 ms",
+        "memory": "92.1 MB",
+        "lang": "cpp"
+      },
+      {
+        "id": "1952090362",
+        "title": "Sudoku Solver",
+        "timestamp": "1773837842",
+        "statusDisplay": "Accepted",
+        "runtime": "503 ms",
+        "memory": "8.9 MB",
+        "lang": "cpp"
+      }
+    ]
+  },
+  {
     "roll": "2315000598",
     "name": "Bharat Dixit",
     "url": "https://leetcode.com/u/BharatDixit0512/",
@@ -4233,39 +4266,6 @@
         "runtime": "9 ms",
         "memory": "74.2 MB",
         "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315002088",
-    "name": "Shivansh Mittal",
-    "url": "https://leetcode.com/u/ishivxnshh/",
-    "section": "G",
-    "dayi": "Hostellers",
-    "mobno": "7452862988",
-    "username": "ishivxnshh",
-    "totalSolved": 331,
-    "easySolved": 132,
-    "mediumSolved": 175,
-    "hardSolved": 24,
-    "recentSubmissions": [
-      {
-        "id": "1952090362",
-        "title": "Sudoku Solver",
-        "timestamp": "1773837842",
-        "statusDisplay": "Accepted",
-        "runtime": "503 ms",
-        "memory": "8.9 MB",
-        "lang": "cpp"
-      },
-      {
-        "id": "1942995429",
-        "title": "Word Break",
-        "timestamp": "1773069959",
-        "statusDisplay": "Accepted",
-        "runtime": "27 ms",
-        "memory": "23 MB",
-        "lang": "cpp"
       }
     ]
   },
@@ -4612,11 +4612,20 @@
     "dayi": "Day Scholars",
     "mobno": "7004902537",
     "username": "shivam_rai22",
-    "totalSolved": 316,
+    "totalSolved": 317,
     "easySolved": 124,
-    "mediumSolved": 152,
+    "mediumSolved": 153,
     "hardSolved": 40,
     "recentSubmissions": [
+      {
+        "id": "1954132032",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774026766",
+        "statusDisplay": "Accepted",
+        "runtime": "24 ms",
+        "memory": "47.4 MB",
+        "lang": "java"
+      },
       {
         "id": "1953223703",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -4624,15 +4633,6 @@
         "statusDisplay": "Accepted",
         "runtime": "30 ms",
         "memory": "234.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952224317",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773847947",
-        "statusDisplay": "Accepted",
-        "runtime": "7 ms",
-        "memory": "161.1 MB",
         "lang": "java"
       }
     ]
@@ -4698,21 +4698,21 @@
     "hardSolved": 43,
     "recentSubmissions": [
       {
+        "id": "1954123459",
+        "title": "Longest Substring Without Repeating Characters",
+        "timestamp": "1774026241",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "45.1 MB",
+        "lang": "java"
+      },
+      {
         "id": "1952625154",
         "title": "Factorial Trailing Zeroes",
         "timestamp": "1773889559",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "42.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952620299",
-        "title": "Longest Substring Without Repeating Characters",
-        "timestamp": "1773888915",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "45.1 MB",
         "lang": "java"
       }
     ]
@@ -4725,11 +4725,20 @@
     "dayi": "Hostellers",
     "mobno": "7505459909",
     "username": "Harsh_Sharma_123",
-    "totalSolved": 307,
+    "totalSolved": 308,
     "easySolved": 116,
-    "mediumSolved": 144,
+    "mediumSolved": 145,
     "hardSolved": 47,
     "recentSubmissions": [
+      {
+        "id": "1954079441",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774023421",
+        "statusDisplay": "Accepted",
+        "runtime": "28 ms",
+        "memory": "47.2 MB",
+        "lang": "java"
+      },
       {
         "id": "1953192411",
         "title": "Count Submatrices With Equal Frequency of X and Y",
@@ -4737,15 +4746,6 @@
         "statusDisplay": "Accepted",
         "runtime": "38 ms",
         "memory": "249.1 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952302307",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773852794",
-        "statusDisplay": "Accepted",
-        "runtime": "9 ms",
-        "memory": "168.8 MB",
         "lang": "java"
       }
     ]
@@ -4797,21 +4797,21 @@
     "hardSolved": 8,
     "recentSubmissions": [
       {
+        "id": "1954143578",
+        "title": "Container With Most Water",
+        "timestamp": "1774027464",
+        "statusDisplay": "Accepted",
+        "runtime": "5 ms",
+        "memory": "77.2 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953224556",
         "title": "Add Two Numbers",
         "timestamp": "1773938850",
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "46.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951765998",
-        "title": "Search in a Binary Search Tree",
-        "timestamp": "1773811061",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "46.5 MB",
         "lang": "java"
       }
     ]
@@ -5576,6 +5576,39 @@
     ]
   },
   {
+    "roll": "2315001494",
+    "name": "Nishant Singh",
+    "url": "https://leetcode.com/u/Nishant_Singh06/",
+    "section": "K",
+    "dayi": "Day Scholars",
+    "mobno": "9528758537",
+    "username": "Nishant_Singh06",
+    "totalSolved": 292,
+    "easySolved": 173,
+    "mediumSolved": 108,
+    "hardSolved": 11,
+    "recentSubmissions": [
+      {
+        "id": "1954128090",
+        "title": "Find Common Characters",
+        "timestamp": "1774026521",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "45 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954105855",
+        "title": "Maximum Units on a Truck",
+        "timestamp": "1774025153",
+        "statusDisplay": "Accepted",
+        "runtime": "9 ms",
+        "memory": "47 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315002111",
     "name": "Shresth kushwaha",
     "url": "https://leetcode.com/u/shresth_kush/",
@@ -5774,39 +5807,6 @@
     ]
   },
   {
-    "roll": "2315001494",
-    "name": "Nishant Singh",
-    "url": "https://leetcode.com/u/Nishant_Singh06/",
-    "section": "K",
-    "dayi": "Day Scholars",
-    "mobno": "9528758537",
-    "username": "Nishant_Singh06",
-    "totalSolved": 289,
-    "easySolved": 170,
-    "mediumSolved": 108,
-    "hardSolved": 11,
-    "recentSubmissions": [
-      {
-        "id": "1953184646",
-        "title": "Minimum Cost to Move Chips to The Same Position",
-        "timestamp": "1773936448",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "43.1 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953170041",
-        "title": "Partition Array Into Three Parts With Equal Sum",
-        "timestamp": "1773935512",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "55.8 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315002154",
     "name": "Shyam Ji Dixit",
     "url": "https://leetcode.com/u/dixitShyam_/",
@@ -5919,21 +5919,21 @@
     "hardSolved": 8,
     "recentSubmissions": [
       {
+        "id": "1954075640",
+        "title": "Two Sum",
+        "timestamp": "1774023162",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "47.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1952663509",
         "title": "Number of Beautiful Pairs",
         "timestamp": "1773893907",
         "statusDisplay": "Accepted",
         "runtime": "12 ms",
         "memory": "46.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952285104",
-        "title": "Minimum Removals to Balance Array",
-        "timestamp": "1773851828",
-        "statusDisplay": "Accepted",
-        "runtime": "24 ms",
-        "memory": "86.3 MB",
         "lang": "java"
       }
     ]
@@ -5985,21 +5985,21 @@
     "hardSolved": 23,
     "recentSubmissions": [
       {
+        "id": "1954110571",
+        "title": "Valid Anagram",
+        "timestamp": "1774025446",
+        "statusDisplay": "Accepted",
+        "runtime": "17 ms",
+        "memory": "46.6 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953300363",
         "title": "Destroying Asteroids",
         "timestamp": "1773943023",
         "statusDisplay": "Accepted",
         "runtime": "26 ms",
         "memory": "107.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953220339",
-        "title": "Remove K Digits",
-        "timestamp": "1773938613",
-        "statusDisplay": "Accepted",
-        "runtime": "20 ms",
-        "memory": "48.2 MB",
         "lang": "java"
       }
     ]
@@ -6401,6 +6401,39 @@
     ]
   },
   {
+    "roll": "2315510138",
+    "name": "Parth",
+    "url": "https://leetcode.com/u/Parth3388/",
+    "section": "CB",
+    "dayi": "Day Scholars",
+    "mobno": "9050484545",
+    "username": "Parth3388",
+    "totalSolved": 272,
+    "easySolved": 117,
+    "mediumSolved": 118,
+    "hardSolved": 37,
+    "recentSubmissions": [
+      {
+        "id": "1954075590",
+        "title": "Fizz Buzz",
+        "timestamp": "1774023158",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "46.6 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954075128",
+        "title": "Add Strings",
+        "timestamp": "1774023126",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "43.7 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000807",
     "name": "Durgesh Kumar Rawat",
     "url": "https://leetcode.com/u/Durgesh_Rawat/",
@@ -6579,21 +6612,21 @@
     "hardSolved": 13,
     "recentSubmissions": [
       {
+        "id": "1954083793",
+        "title": "Evaluate Reverse Polish Notation",
+        "timestamp": "1774023714",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "45.3 MB",
+        "lang": "java"
+      },
+      {
         "id": "1952638602",
         "title": "Sort List",
         "timestamp": "1773891274",
         "statusDisplay": "Accepted",
         "runtime": "9 ms",
         "memory": "59.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951893053",
-        "title": "Linked List Cycle",
-        "timestamp": "1773820538",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "46.8 MB",
         "lang": "java"
       }
     ]
@@ -6645,6 +6678,15 @@
     "hardSolved": 9,
     "recentSubmissions": [
       {
+        "id": "1954060682",
+        "title": "Convert a Number to Hexadecimal",
+        "timestamp": "1774022123",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "42.7 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953246298",
         "title": "Tenth Line",
         "timestamp": "1773940054",
@@ -6652,48 +6694,6 @@
         "runtime": "28 ms",
         "memory": "3.9 MB",
         "lang": "bash"
-      },
-      {
-        "id": "1952180901",
-        "title": "Jump Game",
-        "timestamp": "1773844845",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "48.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315510138",
-    "name": "Parth",
-    "url": "https://leetcode.com/u/Parth3388/",
-    "section": "CB",
-    "dayi": "Day Scholars",
-    "mobno": "9050484545",
-    "username": "Parth3388",
-    "totalSolved": 269,
-    "easySolved": 115,
-    "mediumSolved": 117,
-    "hardSolved": 37,
-    "recentSubmissions": [
-      {
-        "id": "1952696686",
-        "title": "Find All Numbers Disappeared in an Array",
-        "timestamp": "1773896805",
-        "statusDisplay": "Accepted",
-        "runtime": "22 ms",
-        "memory": "74.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952695891",
-        "title": "Ransom Note",
-        "timestamp": "1773896738",
-        "statusDisplay": "Accepted",
-        "runtime": "15 ms",
-        "memory": "47.1 MB",
-        "lang": "java"
       }
     ]
   },
@@ -7325,6 +7325,39 @@
     ]
   },
   {
+    "roll": "2415990018",
+    "name": "Gungun Gautam",
+    "url": "https://leetcode.com/u/gungungautam/",
+    "section": "BA",
+    "dayi": "Day Scholars",
+    "mobno": "9105823395",
+    "username": "gungungautam",
+    "totalSolved": 258,
+    "easySolved": 100,
+    "mediumSolved": 138,
+    "hardSolved": 20,
+    "recentSubmissions": [
+      {
+        "id": "1954083630",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774023703",
+        "statusDisplay": "Accepted",
+        "runtime": "27 ms",
+        "memory": "47.9 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953363671",
+        "title": "Number of Provinces",
+        "timestamp": "1773947165",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "47.4 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315002226",
     "name": "Sukanshi Garg",
     "url": "https://leetcode.com/u/Sukanshi/",
@@ -7386,39 +7419,6 @@
         "statusDisplay": "Accepted",
         "runtime": "15 ms",
         "memory": "48.7 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2415990018",
-    "name": "Gungun Gautam",
-    "url": "https://leetcode.com/u/gungungautam/",
-    "section": "BA",
-    "dayi": "Day Scholars",
-    "mobno": "9105823395",
-    "username": "gungungautam",
-    "totalSolved": 257,
-    "easySolved": 100,
-    "mediumSolved": 137,
-    "hardSolved": 20,
-    "recentSubmissions": [
-      {
-        "id": "1953363671",
-        "title": "Number of Provinces",
-        "timestamp": "1773947165",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "47.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952903739",
-        "title": "Triangle",
-        "timestamp": "1773914494",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "45.2 MB",
         "lang": "java"
       }
     ]
@@ -7523,6 +7523,39 @@
     ]
   },
   {
+    "roll": "2315510026",
+    "name": "Ankit Yadav",
+    "url": "https://leetcode.com/u/ankit_yaduvanshiii/",
+    "section": "CC",
+    "dayi": "Hostellers",
+    "mobno": "6307213379",
+    "username": "ankit_yaduvanshiii",
+    "totalSolved": 254,
+    "easySolved": 89,
+    "mediumSolved": 135,
+    "hardSolved": 30,
+    "recentSubmissions": [
+      {
+        "id": "1954071118",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774022857",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.5 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953127667",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773932635",
+        "statusDisplay": "Accepted",
+        "runtime": "37 ms",
+        "memory": "249.8 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315800068",
     "name": "Raj Shwet Gautam",
     "url": "https://leetcode.com/u/Raj112128/",
@@ -7617,39 +7650,6 @@
         "statusDisplay": "Accepted",
         "runtime": "3 ms",
         "memory": "115.8 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315510026",
-    "name": "Ankit Yadav",
-    "url": "https://leetcode.com/u/ankit_yaduvanshiii/",
-    "section": "CC",
-    "dayi": "Hostellers",
-    "mobno": "6307213379",
-    "username": "ankit_yaduvanshiii",
-    "totalSolved": 253,
-    "easySolved": 89,
-    "mediumSolved": 134,
-    "hardSolved": 30,
-    "recentSubmissions": [
-      {
-        "id": "1953127667",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773932635",
-        "statusDisplay": "Accepted",
-        "runtime": "37 ms",
-        "memory": "249.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952548372",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773876389",
-        "statusDisplay": "Accepted",
-        "runtime": "6 ms",
-        "memory": "161.2 MB",
         "lang": "java"
       }
     ]
@@ -7966,6 +7966,39 @@
     ]
   },
   {
+    "roll": "2315520008",
+    "name": "Hardev singh",
+    "url": "https://leetcode.com/u/hardev_singh/",
+    "section": "CE",
+    "dayi": "Day Scholars",
+    "mobno": "07895767276",
+    "username": "hardev_singh",
+    "totalSolved": 250,
+    "easySolved": 84,
+    "mediumSolved": 136,
+    "hardSolved": 30,
+    "recentSubmissions": [
+      {
+        "id": "1954058439",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774021965",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.6 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953170433",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773935538",
+        "statusDisplay": "Accepted",
+        "runtime": "39 ms",
+        "memory": "249.6 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315002007",
     "name": "Saumitra Misra",
     "url": "https://leetcode.com/u/saumitramisra234/",
@@ -8027,39 +8060,6 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "47.5 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315520008",
-    "name": "Hardev singh",
-    "url": "https://leetcode.com/u/hardev_singh/",
-    "section": "CE",
-    "dayi": "Day Scholars",
-    "mobno": "07895767276",
-    "username": "hardev_singh",
-    "totalSolved": 249,
-    "easySolved": 84,
-    "mediumSolved": 135,
-    "hardSolved": 30,
-    "recentSubmissions": [
-      {
-        "id": "1953170433",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773935538",
-        "statusDisplay": "Accepted",
-        "runtime": "39 ms",
-        "memory": "249.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952298063",
-        "title": "Check if Binary String Has at Most One Segment of Ones",
-        "timestamp": "1773852561",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "42.6 MB",
         "lang": "java"
       }
     ]
@@ -8805,6 +8805,39 @@
     ]
   },
   {
+    "roll": "2315002112",
+    "name": "Shrey mehrotra",
+    "url": "https://leetcode.com/u/vmWgbFGF9U/",
+    "section": "F",
+    "dayi": "Day Scholars",
+    "mobno": "8470878714",
+    "username": "vmWgbFGF9U",
+    "totalSolved": 238,
+    "easySolved": 129,
+    "mediumSolved": 91,
+    "hardSolved": 18,
+    "recentSubmissions": [
+      {
+        "id": "1954125199",
+        "title": "Jump Game",
+        "timestamp": "1774026349",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "47.8 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1952394555",
+        "title": "Remove Element",
+        "timestamp": "1773857913",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "43.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000551",
     "name": "Ayush Lohiya",
     "url": "https://leetcode.com/u/ayush_lohiya_/",
@@ -8833,39 +8866,6 @@
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "48.3 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315002112",
-    "name": "Shrey mehrotra",
-    "url": "https://leetcode.com/u/vmWgbFGF9U/",
-    "section": "F",
-    "dayi": "Day Scholars",
-    "mobno": "8470878714",
-    "username": "vmWgbFGF9U",
-    "totalSolved": 237,
-    "easySolved": 129,
-    "mediumSolved": 90,
-    "hardSolved": 18,
-    "recentSubmissions": [
-      {
-        "id": "1952394555",
-        "title": "Remove Element",
-        "timestamp": "1773857913",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "43.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952393140",
-        "title": "Two Sum",
-        "timestamp": "1773857830",
-        "statusDisplay": "Accepted",
-        "runtime": "45 ms",
-        "memory": "46.8 MB",
         "lang": "java"
       }
     ]
@@ -8970,6 +8970,39 @@
     ]
   },
   {
+    "roll": "2315000201",
+    "name": "Akriti Singh",
+    "url": "https://leetcode.com/u/Akriti_singh2005/",
+    "section": "L",
+    "dayi": "Hostellers",
+    "mobno": "9265067121",
+    "username": "Akriti_singh2005",
+    "totalSolved": 236,
+    "easySolved": 133,
+    "mediumSolved": 94,
+    "hardSolved": 9,
+    "recentSubmissions": [
+      {
+        "id": "1954053326",
+        "title": "Rising Temperature",
+        "timestamp": "1774021597",
+        "statusDisplay": "Accepted",
+        "runtime": "524 ms",
+        "memory": "0.0B",
+        "lang": "mysql"
+      },
+      {
+        "id": "1953119027",
+        "title": "Employees Earning More Than Their Managers",
+        "timestamp": "1773932030",
+        "statusDisplay": "Accepted",
+        "runtime": "1218 ms",
+        "memory": "0.0B",
+        "lang": "mysql"
+      }
+    ]
+  },
+  {
     "roll": "2315001616",
     "name": "Prakhar Katiyar",
     "url": "https://leetcode.com/u/PrakharKatiyar/",
@@ -9064,39 +9097,6 @@
         "statusDisplay": "Accepted",
         "runtime": "3 ms",
         "memory": "219.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000201",
-    "name": "Akriti Singh",
-    "url": "https://leetcode.com/u/Akriti_singh2005/",
-    "section": "L",
-    "dayi": "Hostellers",
-    "mobno": "9265067121",
-    "username": "Akriti_singh2005",
-    "totalSolved": 235,
-    "easySolved": 132,
-    "mediumSolved": 94,
-    "hardSolved": 9,
-    "recentSubmissions": [
-      {
-        "id": "1953119027",
-        "title": "Employees Earning More Than Their Managers",
-        "timestamp": "1773932030",
-        "statusDisplay": "Accepted",
-        "runtime": "1218 ms",
-        "memory": "0.0B",
-        "lang": "mysql"
-      },
-      {
-        "id": "1953116177",
-        "title": "Pascal's Triangle",
-        "timestamp": "1773931837",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "43.4 MB",
         "lang": "java"
       }
     ]
@@ -9267,6 +9267,39 @@
     ]
   },
   {
+    "roll": "2315510030",
+    "name": "Ansh porwal",
+    "url": "https://leetcode.com/u/ansh_porwal_01/",
+    "section": "CB",
+    "dayi": "Day Scholars",
+    "mobno": "8534893443",
+    "username": "ansh_porwal_01",
+    "totalSolved": 232,
+    "easySolved": 89,
+    "mediumSolved": 112,
+    "hardSolved": 31,
+    "recentSubmissions": [
+      {
+        "id": "1954123940",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774026269",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "47.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953175287",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773935853",
+        "statusDisplay": "Accepted",
+        "runtime": "18 ms",
+        "memory": "260.2 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000827",
     "name": "Garv Sharma",
     "url": "https://leetcode.com/u/_garrrvvv/",
@@ -9328,39 +9361,6 @@
         "statusDisplay": "Accepted",
         "runtime": "12 ms",
         "memory": "46.3 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315510030",
-    "name": "Ansh porwal",
-    "url": "https://leetcode.com/u/ansh_porwal_01/",
-    "section": "CB",
-    "dayi": "Day Scholars",
-    "mobno": "8534893443",
-    "username": "ansh_porwal_01",
-    "totalSolved": 231,
-    "easySolved": 89,
-    "mediumSolved": 111,
-    "hardSolved": 31,
-    "recentSubmissions": [
-      {
-        "id": "1953175287",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773935853",
-        "statusDisplay": "Accepted",
-        "runtime": "18 ms",
-        "memory": "260.2 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951754432",
-        "title": "Count Submatrices with Top-Left Element and Sum Less Than k",
-        "timestamp": "1773810263",
-        "statusDisplay": "Accepted",
-        "runtime": "6 ms",
-        "memory": "161 MB",
         "lang": "java"
       }
     ]
@@ -9525,21 +9525,21 @@
     "hardSolved": 14,
     "recentSubmissions": [
       {
+        "id": "1954126308",
+        "title": "Length of Last Word",
+        "timestamp": "1774026415",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "43.3 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953203992",
         "title": "Successful Pairs of Spells and Potions",
         "timestamp": "1773937645",
         "statusDisplay": "Accepted",
         "runtime": "51 ms",
         "memory": "146.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951938993",
-        "title": "Get the Maximum Score",
-        "timestamp": "1773824624",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "61.6 MB",
         "lang": "java"
       }
     ]
@@ -9790,6 +9790,39 @@
     "recentSubmissions": []
   },
   {
+    "roll": "2315002455",
+    "name": "Vimal Gautam",
+    "url": "https://leetcode.com/u/vimal2302/",
+    "section": "V",
+    "dayi": "Hostellers",
+    "mobno": "8433244233",
+    "username": "vimal2302",
+    "totalSolved": 226,
+    "easySolved": 88,
+    "mediumSolved": 110,
+    "hardSolved": 28,
+    "recentSubmissions": [
+      {
+        "id": "1954088155",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774024003",
+        "statusDisplay": "Accepted",
+        "runtime": "14 ms",
+        "memory": "32 MB",
+        "lang": "cpp"
+      },
+      {
+        "id": "1953331322",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773944796",
+        "statusDisplay": "Accepted",
+        "runtime": "30 ms",
+        "memory": "101.1 MB",
+        "lang": "cpp"
+      }
+    ]
+  },
+  {
     "roll": "2315000434",
     "name": "Arsh gupta",
     "url": "https://leetcode.com/u/arshgupta731/",
@@ -9918,39 +9951,6 @@
         "runtime": "2 ms",
         "memory": "47.1 MB",
         "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315002455",
-    "name": "Vimal Gautam",
-    "url": "https://leetcode.com/u/vimal2302/",
-    "section": "V",
-    "dayi": "Hostellers",
-    "mobno": "8433244233",
-    "username": "vimal2302",
-    "totalSolved": 225,
-    "easySolved": 88,
-    "mediumSolved": 109,
-    "hardSolved": 28,
-    "recentSubmissions": [
-      {
-        "id": "1953331322",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773944796",
-        "statusDisplay": "Accepted",
-        "runtime": "30 ms",
-        "memory": "101.1 MB",
-        "lang": "cpp"
-      },
-      {
-        "id": "1949405666",
-        "title": "Fancy Sequence",
-        "timestamp": "1773599807",
-        "statusDisplay": "Accepted",
-        "runtime": "88 ms",
-        "memory": "192.4 MB",
-        "lang": "cpp"
       }
     ]
   },
@@ -10859,12 +10859,12 @@
     "hardSolved": 20,
     "recentSubmissions": [
       {
-        "id": "1953743247",
+        "id": "1954084842",
         "title": "Minimum Absolute Difference in Sliding Submatrix",
-        "timestamp": "1773993869",
+        "timestamp": "1774023783",
         "statusDisplay": "Accepted",
-        "runtime": "16 ms",
-        "memory": "31.9 MB",
+        "runtime": "3 ms",
+        "memory": "32.1 MB",
         "lang": "cpp"
       }
     ]
@@ -11035,6 +11035,39 @@
     ]
   },
   {
+    "roll": "2315000229",
+    "name": "Aman kumar singh",
+    "url": "https://leetcode.com/u/amansingh0409/",
+    "section": "E",
+    "dayi": "Day Scholars",
+    "mobno": "8077754095",
+    "username": "amansingh0409",
+    "totalSolved": 209,
+    "easySolved": 92,
+    "mediumSolved": 103,
+    "hardSolved": 14,
+    "recentSubmissions": [
+      {
+        "id": "1954052440",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774021532",
+        "statusDisplay": "Accepted",
+        "runtime": "11 ms",
+        "memory": "48.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953786352",
+        "title": "Search Insert Position",
+        "timestamp": "1773998149",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "44.5 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001415",
     "name": "Nakul Gupta",
     "url": "https://leetcode.com/u/nakul_gupta_/",
@@ -11128,39 +11161,6 @@
         "timestamp": "1770626389",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
-        "memory": "42.7 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000229",
-    "name": "Aman kumar singh",
-    "url": "https://leetcode.com/u/amansingh0409/",
-    "section": "E",
-    "dayi": "Day Scholars",
-    "mobno": "8077754095",
-    "username": "amansingh0409",
-    "totalSolved": 208,
-    "easySolved": 92,
-    "mediumSolved": 102,
-    "hardSolved": 14,
-    "recentSubmissions": [
-      {
-        "id": "1953786352",
-        "title": "Search Insert Position",
-        "timestamp": "1773998149",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "44.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953775086",
-        "title": "Sqrt(x)",
-        "timestamp": "1773997100",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
         "memory": "42.7 MB",
         "lang": "java"
       }
@@ -11859,6 +11859,39 @@
     ]
   },
   {
+    "roll": "2315001242",
+    "name": "Lalit Tomar",
+    "url": "https://leetcode.com/u/Lalit_Tomar/",
+    "section": "S",
+    "dayi": "Hostellers",
+    "mobno": "9389436393",
+    "username": "Lalit_Tomar",
+    "totalSolved": 200,
+    "easySolved": 102,
+    "mediumSolved": 89,
+    "hardSolved": 9,
+    "recentSubmissions": [
+      {
+        "id": "1954156158",
+        "title": "Minimum Size Subarray Sum",
+        "timestamp": "1774028226",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "62 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953292187",
+        "title": "Subarray Product Less Than K",
+        "timestamp": "1773942568",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "51.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315510074",
     "name": "durgesh kumari tarkar",
     "url": "https://leetcode.com/u/durgesh_tarkar/",
@@ -11920,39 +11953,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "77.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001242",
-    "name": "Lalit Tomar",
-    "url": "https://leetcode.com/u/Lalit_Tomar/",
-    "section": "S",
-    "dayi": "Hostellers",
-    "mobno": "9389436393",
-    "username": "Lalit_Tomar",
-    "totalSolved": 199,
-    "easySolved": 102,
-    "mediumSolved": 88,
-    "hardSolved": 9,
-    "recentSubmissions": [
-      {
-        "id": "1953292187",
-        "title": "Subarray Product Less Than K",
-        "timestamp": "1773942568",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "51.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953235245",
-        "title": "Max Consecutive Ones III",
-        "timestamp": "1773939451",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "52.2 MB",
         "lang": "java"
       }
     ]
@@ -12136,21 +12136,21 @@
     "hardSolved": 15,
     "recentSubmissions": [
       {
+        "id": "1954078751",
+        "title": "Two Sum",
+        "timestamp": "1774023374",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "47.2 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953576522",
         "title": "Max Consecutive Ones III",
         "timestamp": "1773979698",
         "statusDisplay": "Accepted",
         "runtime": "4 ms",
         "memory": "52.1 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953078085",
-        "title": "Fruit Into Baskets",
-        "timestamp": "1773929249",
-        "statusDisplay": "Accepted",
-        "runtime": "57 ms",
-        "memory": "70.8 MB",
         "lang": "java"
       }
     ]
@@ -13160,6 +13160,39 @@
     ]
   },
   {
+    "roll": "2315000638",
+    "name": "chahat",
+    "url": "https://leetcode.com/u/Frostphoenix/",
+    "section": "N",
+    "dayi": "Hostellers",
+    "mobno": "6307026414",
+    "username": "Frostphoenix",
+    "totalSolved": 187,
+    "easySolved": 111,
+    "mediumSolved": 70,
+    "hardSolved": 6,
+    "recentSubmissions": [
+      {
+        "id": "1954154189",
+        "title": "XOR Operation in an Array",
+        "timestamp": "1774028106",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "42 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953241531",
+        "title": "Sum of Variable Length Subarrays",
+        "timestamp": "1773939799",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "45.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000008",
     "name": "Aakriti Yadav",
     "url": "https://leetcode.com/u/Aakritiy_63/",
@@ -13221,39 +13254,6 @@
         "statusDisplay": "Accepted",
         "runtime": "5 ms",
         "memory": "176.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000638",
-    "name": "chahat",
-    "url": "https://leetcode.com/u/Frostphoenix/",
-    "section": "N",
-    "dayi": "Hostellers",
-    "mobno": "6307026414",
-    "username": "Frostphoenix",
-    "totalSolved": 186,
-    "easySolved": 110,
-    "mediumSolved": 70,
-    "hardSolved": 6,
-    "recentSubmissions": [
-      {
-        "id": "1953241531",
-        "title": "Sum of Variable Length Subarrays",
-        "timestamp": "1773939799",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "45.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952305090",
-        "title": "Bitwise OR of Even Numbers in an Array",
-        "timestamp": "1773852950",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "44.2 MB",
         "lang": "java"
       }
     ]
@@ -14375,21 +14375,21 @@
     "hardSolved": 13,
     "recentSubmissions": [
       {
+        "id": "1954107249",
+        "title": "Search in Rotated Sorted Array",
+        "timestamp": "1774025241",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "15.1 MB",
+        "lang": "cpp"
+      },
+      {
         "id": "1953291274",
         "title": "Find Minimum in Rotated Sorted Array",
         "timestamp": "1773942518",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "14.2 MB",
-        "lang": "cpp"
-      },
-      {
-        "id": "1953228514",
-        "title": "Find First and Last Position of Element in Sorted Array",
-        "timestamp": "1773939068",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "17.6 MB",
         "lang": "cpp"
       }
     ]
@@ -14593,6 +14593,39 @@
     ]
   },
   {
+    "roll": "2315000151",
+    "name": "Aditya Singh",
+    "url": "https://leetcode.com/u/erHSustImg/",
+    "section": "D",
+    "dayi": "Day Scholars",
+    "mobno": "6396243377",
+    "username": "erHSustImg",
+    "totalSolved": 174,
+    "easySolved": 78,
+    "mediumSolved": 82,
+    "hardSolved": 14,
+    "recentSubmissions": [
+      {
+        "id": "1954124221",
+        "title": "Contains Duplicate II",
+        "timestamp": "1774026286",
+        "statusDisplay": "Accepted",
+        "runtime": "23 ms",
+        "memory": "91 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1951808702",
+        "title": "N-Queens II",
+        "timestamp": "1773814022",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "42 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000353",
     "name": "Anshul Yadav",
     "url": "https://leetcode.com/u/A9xxYQvo3H/",
@@ -14720,39 +14753,6 @@
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "65.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000151",
-    "name": "Aditya Singh",
-    "url": "https://leetcode.com/u/erHSustImg/",
-    "section": "D",
-    "dayi": "Day Scholars",
-    "mobno": "6396243377",
-    "username": "erHSustImg",
-    "totalSolved": 173,
-    "easySolved": 77,
-    "mediumSolved": 82,
-    "hardSolved": 14,
-    "recentSubmissions": [
-      {
-        "id": "1951808702",
-        "title": "N-Queens II",
-        "timestamp": "1773814022",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "42 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951787590",
-        "title": "N-Queens",
-        "timestamp": "1773812577",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "46.7 MB",
         "lang": "java"
       }
     ]
@@ -16012,6 +16012,39 @@
     ]
   },
   {
+    "roll": "2315001793",
+    "name": "Rajneesh Gupta",
+    "url": "https://leetcode.com/u/Rajneesh_Gupta09/",
+    "section": "V",
+    "dayi": "Hostellers",
+    "mobno": "9044491132",
+    "username": "Rajneesh_Gupta09",
+    "totalSolved": 161,
+    "easySolved": 74,
+    "mediumSolved": 74,
+    "hardSolved": 13,
+    "recentSubmissions": [
+      {
+        "id": "1954094752",
+        "title": "Vertical Order Traversal of a Binary Tree",
+        "timestamp": "1774024440",
+        "statusDisplay": "Accepted",
+        "runtime": "13 ms",
+        "memory": "44.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954073007",
+        "title": "Majority Element",
+        "timestamp": "1774022983",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "55.6 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000180",
     "name": "Akash",
     "url": "https://leetcode.com/u/akash__gautam/",
@@ -16124,21 +16157,21 @@
     "hardSolved": 14,
     "recentSubmissions": [
       {
+        "id": "1954145024",
+        "title": "Binary Tree Inorder Traversal",
+        "timestamp": "1774027553",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "43.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1952658655",
         "title": "Number of Digit One",
         "timestamp": "1773893431",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "42 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952626274",
-        "title": "Factorial Trailing Zeroes",
-        "timestamp": "1773889703",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "42.3 MB",
         "lang": "java"
       }
     ]
@@ -16408,39 +16441,6 @@
     ]
   },
   {
-    "roll": "2315001793",
-    "name": "Rajneesh Gupta",
-    "url": "https://leetcode.com/u/Rajneesh_Gupta09/",
-    "section": "V",
-    "dayi": "Hostellers",
-    "mobno": "9044491132",
-    "username": "Rajneesh_Gupta09",
-    "totalSolved": 159,
-    "easySolved": 73,
-    "mediumSolved": 74,
-    "hardSolved": 12,
-    "recentSubmissions": [
-      {
-        "id": "1953318139",
-        "title": "Merge Two Sorted Lists",
-        "timestamp": "1773944027",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "44.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953287566",
-        "title": "Search in a Binary Search Tree",
-        "timestamp": "1773942308",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "47 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315002323",
     "name": "Tushar Bhardwaj",
     "url": "https://leetcode.com/u/TusharBhardwaj_CS/",
@@ -16667,6 +16667,39 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "42.2 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315001641",
+    "name": "Prashant kumar",
+    "url": "https://leetcode.com/u/prashantkumar45/",
+    "section": "Y",
+    "dayi": "Hostellers",
+    "mobno": "9456205863",
+    "username": "prashantkumar45",
+    "totalSolved": 158,
+    "easySolved": 103,
+    "mediumSolved": 54,
+    "hardSolved": 1,
+    "recentSubmissions": [
+      {
+        "id": "1954104752",
+        "title": "Reshape the Matrix",
+        "timestamp": "1774025087",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "47.4 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954103361",
+        "title": "Diameter of Binary Tree",
+        "timestamp": "1774024997",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "47 MB",
         "lang": "java"
       }
     ]
@@ -16903,6 +16936,39 @@
     ]
   },
   {
+    "roll": "2315001509",
+    "name": "nitin kumar",
+    "url": "https://leetcode.com/u/nitin123_/",
+    "section": "Z",
+    "dayi": "Hostellers",
+    "mobno": "7455926399",
+    "username": "nitin123_",
+    "totalSolved": 156,
+    "easySolved": 90,
+    "mediumSolved": 61,
+    "hardSolved": 5,
+    "recentSubmissions": [
+      {
+        "id": "1954164409",
+        "title": "Combination Sum",
+        "timestamp": "1774028735",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "45.7 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953349839",
+        "title": "Subsets II",
+        "timestamp": "1773946067",
+        "statusDisplay": "Accepted",
+        "runtime": "3 ms",
+        "memory": "45.2 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000282",
     "name": "Aniket Goyal",
     "url": "https://leetcode.com/u/goyalaniket2006/",
@@ -17063,39 +17129,6 @@
         "statusDisplay": "Accepted",
         "runtime": "17 ms",
         "memory": "259.8 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001509",
-    "name": "nitin kumar",
-    "url": "https://leetcode.com/u/nitin123_/",
-    "section": "Z",
-    "dayi": "Hostellers",
-    "mobno": "7455926399",
-    "username": "nitin123_",
-    "totalSolved": 155,
-    "easySolved": 90,
-    "mediumSolved": 60,
-    "hardSolved": 5,
-    "recentSubmissions": [
-      {
-        "id": "1953349839",
-        "title": "Subsets II",
-        "timestamp": "1773946067",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "45.2 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953301482",
-        "title": "Subsets",
-        "timestamp": "1773943085",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "44 MB",
         "lang": "java"
       }
     ]
@@ -17332,39 +17365,6 @@
     ]
   },
   {
-    "roll": "2315001641",
-    "name": "Prashant kumar",
-    "url": "https://leetcode.com/u/prashantkumar45/",
-    "section": "Y",
-    "dayi": "Hostellers",
-    "mobno": "9456205863",
-    "username": "prashantkumar45",
-    "totalSolved": 153,
-    "easySolved": 98,
-    "mediumSolved": 54,
-    "hardSolved": 1,
-    "recentSubmissions": [
-      {
-        "id": "1953066333",
-        "title": "Construct the Rectangle",
-        "timestamp": "1773928422",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "42.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953064864",
-        "title": "Max Consecutive Ones",
-        "timestamp": "1773928320",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "52.8 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315000079",
     "name": "abhishek upadhyay",
     "url": "https://leetcode.com/u/abhishekupadhy_cs23/",
@@ -17596,6 +17596,39 @@
     ]
   },
   {
+    "roll": "2315002519",
+    "name": "Yadvendra singh",
+    "url": "https://leetcode.com/u/Yadvendra_Singh/",
+    "section": "L",
+    "dayi": "Day Scholars",
+    "mobno": "9569694423",
+    "username": "Yadvendra_Singh",
+    "totalSolved": 151,
+    "easySolved": 85,
+    "mediumSolved": 61,
+    "hardSolved": 5,
+    "recentSubmissions": [
+      {
+        "id": "1954085304",
+        "title": "Divide Two Integers",
+        "timestamp": "1774023815",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "42.4 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953215089",
+        "title": "Path Sum",
+        "timestamp": "1773938301",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "44.5 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001453",
     "name": "Neeti Sharma",
     "url": "https://leetcode.com/u/Neeti_sh1/",
@@ -17629,6 +17662,39 @@
     ]
   },
   {
+    "roll": "2315000197",
+    "name": "akash yadav",
+    "url": "https://leetcode.com/u/ay033844/",
+    "section": "R",
+    "dayi": "Day Scholars",
+    "mobno": "8573868659",
+    "username": "ay033844",
+    "totalSolved": 151,
+    "easySolved": 73,
+    "mediumSolved": 65,
+    "hardSolved": 13,
+    "recentSubmissions": [
+      {
+        "id": "1954131114",
+        "title": "Min Cost Climbing Stairs",
+        "timestamp": "1774026710",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "45.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953323548",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773944337",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "249.6 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000173",
     "name": "Ajit Kumar Pathak",
     "url": "https://leetcode.com/u/pathak_ji_2891/",
@@ -17642,21 +17708,21 @@
     "hardSolved": 16,
     "recentSubmissions": [
       {
+        "id": "1954143567",
+        "title": "Remove Duplicates from Sorted Array",
+        "timestamp": "1774027463",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "46.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1949823397",
         "title": "Move Zeroes",
         "timestamp": "1773646768",
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "47.9 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1887556642",
-        "title": "Remove Element",
-        "timestamp": "1768639619",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "43.4 MB",
         "lang": "java"
       }
     ]
@@ -17761,72 +17827,6 @@
     ]
   },
   {
-    "roll": "2315002519",
-    "name": "Yadvendra singh",
-    "url": "https://leetcode.com/u/Yadvendra_Singh/",
-    "section": "L",
-    "dayi": "Day Scholars",
-    "mobno": "9569694423",
-    "username": "Yadvendra_Singh",
-    "totalSolved": 150,
-    "easySolved": 85,
-    "mediumSolved": 60,
-    "hardSolved": 5,
-    "recentSubmissions": [
-      {
-        "id": "1953215089",
-        "title": "Path Sum",
-        "timestamp": "1773938301",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "44.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951818337",
-        "title": "Get the Maximum Score",
-        "timestamp": "1773814655",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "61.4 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000197",
-    "name": "akash yadav",
-    "url": "https://leetcode.com/u/ay033844/",
-    "section": "R",
-    "dayi": "Day Scholars",
-    "mobno": "8573868659",
-    "username": "ay033844",
-    "totalSolved": 150,
-    "easySolved": 72,
-    "mediumSolved": 65,
-    "hardSolved": 13,
-    "recentSubmissions": [
-      {
-        "id": "1953323548",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773944337",
-        "statusDisplay": "Accepted",
-        "runtime": "25 ms",
-        "memory": "249.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952711305",
-        "title": "Pow(x, n)",
-        "timestamp": "1773897973",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "48 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2415990029",
     "name": "Priyanshu dixit",
     "url": "https://leetcode.com/u/priyanshu812/",
@@ -17893,6 +17893,20 @@
     ]
   },
   {
+    "roll": "2315001731",
+    "name": "pushkar  sharma",
+    "url": "https://leetcode.com/u/pushkarsharma9548/",
+    "section": "N",
+    "dayi": "Hostellers",
+    "mobno": "9548965708",
+    "username": "pushkarsharma9548",
+    "totalSolved": 149,
+    "easySolved": 92,
+    "mediumSolved": 50,
+    "hardSolved": 7,
+    "recentSubmissions": []
+  },
+  {
     "roll": "2315000989",
     "name": "Ipshita Gupta",
     "url": "https://leetcode.com/u/Ipshita-Gupta/",
@@ -17957,20 +17971,6 @@
         "lang": "java"
       }
     ]
-  },
-  {
-    "roll": "2315001731",
-    "name": "pushkar  sharma",
-    "url": "https://leetcode.com/u/pushkarsharma9548/",
-    "section": "N",
-    "dayi": "Hostellers",
-    "mobno": "9548965708",
-    "username": "pushkarsharma9548",
-    "totalSolved": 148,
-    "easySolved": 92,
-    "mediumSolved": 49,
-    "hardSolved": 7,
-    "recentSubmissions": []
   },
   {
     "roll": "2315000295",
@@ -18383,6 +18383,39 @@
     ]
   },
   {
+    "roll": "2315000829",
+    "name": "Garvit",
+    "url": "https://leetcode.com/u/Garvit_Singhal_30/",
+    "section": "N",
+    "dayi": "Day Scholars",
+    "mobno": "8279924052",
+    "username": "Garvit_Singhal_30",
+    "totalSolved": 145,
+    "easySolved": 106,
+    "mediumSolved": 37,
+    "hardSolved": 2,
+    "recentSubmissions": [
+      {
+        "id": "1954133972",
+        "title": "Find Maximum Number of String Pairs",
+        "timestamp": "1774026883",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "46.7 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953970365",
+        "title": "Find the Integer Added to Array I",
+        "timestamp": "1774015324",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "45.7 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001527",
     "name": "Niyati Soni",
     "url": "https://leetcode.com/u/lucius__/",
@@ -18548,39 +18581,6 @@
     ]
   },
   {
-    "roll": "2315000829",
-    "name": "Garvit",
-    "url": "https://leetcode.com/u/Garvit_Singhal_30/",
-    "section": "N",
-    "dayi": "Day Scholars",
-    "mobno": "8279924052",
-    "username": "Garvit_Singhal_30",
-    "totalSolved": 144,
-    "easySolved": 105,
-    "mediumSolved": 37,
-    "hardSolved": 2,
-    "recentSubmissions": [
-      {
-        "id": "1953970365",
-        "title": "Find the Integer Added to Array I",
-        "timestamp": "1774015324",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "45.7 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953960714",
-        "title": "Final Prices With a Special Discount in a Shop",
-        "timestamp": "1774014557",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "45.4 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315000953",
     "name": "harshvardhan bhardwaj",
     "url": "https://leetcode.com/u/upKNYxt9fS/",
@@ -18609,6 +18609,39 @@
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "94.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315510112",
+    "name": "Lokendra kumar",
+    "url": "https://leetcode.com/u/Lokendra_kumar1/",
+    "section": "CB",
+    "dayi": "Hostellers",
+    "mobno": "9548880608",
+    "username": "Lokendra_kumar1",
+    "totalSolved": 143,
+    "easySolved": 75,
+    "mediumSolved": 60,
+    "hardSolved": 8,
+    "recentSubmissions": [
+      {
+        "id": "1954064287",
+        "title": "Jump Game",
+        "timestamp": "1774022379",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "48.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953294809",
+        "title": "Lemonade Change",
+        "timestamp": "1773942709",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "72.5 MB",
         "lang": "java"
       }
     ]
@@ -18675,39 +18708,6 @@
         "statusDisplay": "Accepted",
         "runtime": "4 ms",
         "memory": "52.3 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315510112",
-    "name": "Lokendra kumar",
-    "url": "https://leetcode.com/u/Lokendra_kumar1/",
-    "section": "CB",
-    "dayi": "Hostellers",
-    "mobno": "9548880608",
-    "username": "Lokendra_kumar1",
-    "totalSolved": 142,
-    "easySolved": 75,
-    "mediumSolved": 59,
-    "hardSolved": 8,
-    "recentSubmissions": [
-      {
-        "id": "1953294809",
-        "title": "Lemonade Change",
-        "timestamp": "1773942709",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "72.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953227105",
-        "title": "Assign Cookies",
-        "timestamp": "1773938991",
-        "statusDisplay": "Accepted",
-        "runtime": "16 ms",
-        "memory": "51.6 MB",
         "lang": "java"
       }
     ]
@@ -19749,21 +19749,21 @@
     "hardSolved": 6,
     "recentSubmissions": [
       {
+        "id": "1954122167",
+        "title": "Rotate Array",
+        "timestamp": "1774026160",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "61.3 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953294044",
         "title": "Longest Substring Without Repeating Characters",
         "timestamp": "1773942665",
         "statusDisplay": "Accepted",
         "runtime": "7 ms",
         "memory": "46.2 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951813796",
-        "title": "Get the Maximum Score",
-        "timestamp": "1773814361",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "61.5 MB",
         "lang": "java"
       }
     ]
@@ -19863,6 +19863,39 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "43.9 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315510131",
+    "name": "Naman Gupta",
+    "url": "https://leetcode.com/u/Naman_Gupta2005/",
+    "section": "CD",
+    "dayi": "Day Scholars",
+    "mobno": "7697958827",
+    "username": "Naman_Gupta2005",
+    "totalSolved": 134,
+    "easySolved": 78,
+    "mediumSolved": 53,
+    "hardSolved": 3,
+    "recentSubmissions": [
+      {
+        "id": "1954125873",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774026389",
+        "statusDisplay": "Accepted",
+        "runtime": "26 ms",
+        "memory": "47.1 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953168802",
+        "title": "Number of 1 Bits",
+        "timestamp": "1773935428",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "42.5 MB",
         "lang": "java"
       }
     ]
@@ -20127,39 +20160,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "42.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315510131",
-    "name": "Naman Gupta",
-    "url": "https://leetcode.com/u/Naman_Gupta2005/",
-    "section": "CD",
-    "dayi": "Day Scholars",
-    "mobno": "7697958827",
-    "username": "Naman_Gupta2005",
-    "totalSolved": 133,
-    "easySolved": 78,
-    "mediumSolved": 52,
-    "hardSolved": 3,
-    "recentSubmissions": [
-      {
-        "id": "1953168802",
-        "title": "Number of 1 Bits",
-        "timestamp": "1773935428",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "42.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953167924",
-        "title": "Largest Submatrix With Rearrangements",
-        "timestamp": "1773935369",
-        "statusDisplay": "Accepted",
-        "runtime": "13 ms",
-        "memory": "113.9 MB",
         "lang": "java"
       }
     ]
@@ -20759,6 +20759,39 @@
     ]
   },
   {
+    "roll": "2315000884",
+    "name": "Harendra Pratap Singh",
+    "url": "https://leetcode.com/u/hare_987/",
+    "section": "H",
+    "dayi": "Hostellers",
+    "mobno": "7505692547",
+    "username": "hare_987",
+    "totalSolved": 130,
+    "easySolved": 63,
+    "mediumSolved": 61,
+    "hardSolved": 6,
+    "recentSubmissions": [
+      {
+        "id": "1954148025",
+        "title": "Find a Peak Element II",
+        "timestamp": "1774027732",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "115.7 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953346811",
+        "title": "4Sum",
+        "timestamp": "1773945836",
+        "statusDisplay": "Accepted",
+        "runtime": "21 ms",
+        "memory": "45.6 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315002286",
     "name": "TANISHQ VASHISHTHA",
     "url": "https://leetcode.com/u/tanishqvashistha90/",
@@ -20886,39 +20919,6 @@
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "65.1 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000884",
-    "name": "Harendra Pratap Singh",
-    "url": "https://leetcode.com/u/hare_987/",
-    "section": "H",
-    "dayi": "Hostellers",
-    "mobno": "7505692547",
-    "username": "hare_987",
-    "totalSolved": 129,
-    "easySolved": 63,
-    "mediumSolved": 60,
-    "hardSolved": 6,
-    "recentSubmissions": [
-      {
-        "id": "1953346811",
-        "title": "4Sum",
-        "timestamp": "1773945836",
-        "statusDisplay": "Accepted",
-        "runtime": "21 ms",
-        "memory": "45.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1947206898",
-        "title": "Basic Calculator",
-        "timestamp": "1773420593",
-        "statusDisplay": "Accepted",
-        "runtime": "10 ms",
-        "memory": "46.2 MB",
         "lang": "java"
       }
     ]
@@ -22436,21 +22436,21 @@
     "hardSolved": 16,
     "recentSubmissions": [
       {
+        "id": "1954078272",
+        "title": "Length of Last Word",
+        "timestamp": "1774023339",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "42.9 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953074113",
         "title": "Jump Game",
         "timestamp": "1773928967",
         "statusDisplay": "Accepted",
         "runtime": "2 ms",
         "memory": "48 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953060700",
-        "title": "Sort Colors",
-        "timestamp": "1773928025",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "43.7 MB",
         "lang": "java"
       }
     ]
@@ -24262,6 +24262,39 @@
     ]
   },
   {
+    "roll": "2315001600",
+    "name": "Prachetas Singh",
+    "url": "https://leetcode.com/u/prachetass1/",
+    "section": "M",
+    "dayi": "Hostellers",
+    "mobno": "7310611225",
+    "username": "prachetass1",
+    "totalSolved": 112,
+    "easySolved": 49,
+    "mediumSolved": 56,
+    "hardSolved": 7,
+    "recentSubmissions": [
+      {
+        "id": "1954131093",
+        "title": "Palindrome Number",
+        "timestamp": "1774026709",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "45.9 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953246523",
+        "title": "First Unique Character in a String",
+        "timestamp": "1773940067",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "46.6 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001201",
     "name": "Kshitiz Tiwari",
     "url": "https://leetcode.com/u/kingkshitiz05/",
@@ -24389,39 +24422,6 @@
         "statusDisplay": "Accepted",
         "runtime": "19 ms",
         "memory": "47.8 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001600",
-    "name": "Prachetas Singh",
-    "url": "https://leetcode.com/u/prachetass1/",
-    "section": "M",
-    "dayi": "Hostellers",
-    "mobno": "7310611225",
-    "username": "prachetass1",
-    "totalSolved": 111,
-    "easySolved": 48,
-    "mediumSolved": 56,
-    "hardSolved": 7,
-    "recentSubmissions": [
-      {
-        "id": "1953246523",
-        "title": "First Unique Character in a String",
-        "timestamp": "1773940067",
-        "statusDisplay": "Accepted",
-        "runtime": "6 ms",
-        "memory": "46.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1951744982",
-        "title": "Median of Two Sorted Arrays",
-        "timestamp": "1773809617",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "49.1 MB",
         "lang": "java"
       }
     ]
@@ -25510,21 +25510,21 @@
     "hardSolved": 12,
     "recentSubmissions": [
       {
+        "id": "1954106902",
+        "title": "String to Integer (atoi)",
+        "timestamp": "1774025220",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "9.3 MB",
+        "lang": "cpp"
+      },
+      {
         "id": "1953096805",
         "title": "Reverse Words in a String",
         "timestamp": "1773930541",
         "statusDisplay": "Accepted",
         "runtime": "11 ms",
         "memory": "46.7 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952397602",
-        "title": "Remove Element",
-        "timestamp": "1773858090",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "43.5 MB",
         "lang": "java"
       }
     ]
@@ -29041,21 +29041,21 @@
     "hardSolved": 1,
     "recentSubmissions": [
       {
+        "id": "1954148876",
+        "title": "House Robber",
+        "timestamp": "1774027781",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "43 MB",
+        "lang": "java"
+      },
+      {
         "id": "1952862888",
         "title": "Length of Last Word",
         "timestamp": "1773910918",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "42.7 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952756004",
-        "title": "Find First and Last Position of Element in Sorted Array",
-        "timestamp": "1773901360",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "48.1 MB",
         "lang": "java"
       }
     ]
@@ -29622,6 +29622,39 @@
     ]
   },
   {
+    "roll": "2315001992",
+    "name": "Sarthak Singh",
+    "url": "https://leetcode.com/u/sarthaksingh_07/",
+    "section": "R",
+    "dayi": "Hostellers",
+    "mobno": "8299700042",
+    "username": "sarthaksingh_07",
+    "totalSolved": 90,
+    "easySolved": 53,
+    "mediumSolved": 34,
+    "hardSolved": 3,
+    "recentSubmissions": [
+      {
+        "id": "1954091968",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774024250",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "47.3 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953306919",
+        "title": "Count Submatrices With Equal Frequency of X and Y",
+        "timestamp": "1773943390",
+        "statusDisplay": "Accepted",
+        "runtime": "35 ms",
+        "memory": "249.8 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000238",
     "name": "Aman Singh Kuntal",
     "url": "https://leetcode.com/u/AmanSinghKuntal/",
@@ -29787,39 +29820,6 @@
     ]
   },
   {
-    "roll": "2315001992",
-    "name": "Sarthak Singh",
-    "url": "https://leetcode.com/u/sarthaksingh_07/",
-    "section": "R",
-    "dayi": "Hostellers",
-    "mobno": "8299700042",
-    "username": "sarthaksingh_07",
-    "totalSolved": 89,
-    "easySolved": 53,
-    "mediumSolved": 33,
-    "hardSolved": 3,
-    "recentSubmissions": [
-      {
-        "id": "1953306919",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773943390",
-        "statusDisplay": "Accepted",
-        "runtime": "35 ms",
-        "memory": "249.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953115315",
-        "title": "Special Positions in a Binary Matrix",
-        "timestamp": "1773931777",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "47.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315000990",
     "name": "Isha Tomar",
     "url": "https://leetcode.com/u/tomar_isha/",
@@ -29932,12 +29932,12 @@
     "hardSolved": 2,
     "recentSubmissions": [
       {
-        "id": "1953009071",
+        "id": "1954073067",
         "title": "Add Two Numbers",
-        "timestamp": "1773923913",
+        "timestamp": "1774022987",
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
-        "memory": "46.5 MB",
+        "memory": "46.2 MB",
         "lang": "java"
       },
       {
@@ -30046,6 +30046,39 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "48.4 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315520019",
+    "name": "Prince kumar",
+    "url": "https://leetcode.com/u/princekumar_cs23/",
+    "section": "CE",
+    "dayi": "Day Scholars",
+    "mobno": "7080041746",
+    "username": "princekumar_cs23",
+    "totalSolved": 88,
+    "easySolved": 43,
+    "mediumSolved": 41,
+    "hardSolved": 4,
+    "recentSubmissions": [
+      {
+        "id": "1954110883",
+        "title": "Balanced Binary Tree",
+        "timestamp": "1774025465",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "45.2 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954099459",
+        "title": "Interleaving String",
+        "timestamp": "1774024753",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "43.2 MB",
         "lang": "java"
       }
     ]
@@ -30442,39 +30475,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "42.6 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315520019",
-    "name": "Prince kumar",
-    "url": "https://leetcode.com/u/princekumar_cs23/",
-    "section": "CE",
-    "dayi": "Day Scholars",
-    "mobno": "7080041746",
-    "username": "princekumar_cs23",
-    "totalSolved": 86,
-    "easySolved": 42,
-    "mediumSolved": 40,
-    "hardSolved": 4,
-    "recentSubmissions": [
-      {
-        "id": "1953138262",
-        "title": "Isomorphic Strings",
-        "timestamp": "1773933366",
-        "statusDisplay": "Accepted",
-        "runtime": "6 ms",
-        "memory": "44.1 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1950775753",
-        "title": "Recover Binary Search Tree",
-        "timestamp": "1773726840",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "46.7 MB",
         "lang": "java"
       }
     ]
@@ -32540,6 +32540,39 @@
     ]
   },
   {
+    "roll": "2315001635",
+    "name": "Pranshul Sharma",
+    "url": "https://leetcode.com/u/dEBZ3JfVBW/",
+    "section": "K",
+    "dayi": "Hostellers",
+    "mobno": "8218860964",
+    "username": "dEBZ3JfVBW",
+    "totalSolved": 78,
+    "easySolved": 49,
+    "mediumSolved": 25,
+    "hardSolved": 4,
+    "recentSubmissions": [
+      {
+        "id": "1954134058",
+        "title": "4Sum",
+        "timestamp": "1774026888",
+        "statusDisplay": "Accepted",
+        "runtime": "20 ms",
+        "memory": "45.8 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953316292",
+        "title": "3Sum Closest",
+        "timestamp": "1773943923",
+        "statusDisplay": "Accepted",
+        "runtime": "17 ms",
+        "memory": "45.4 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000252",
     "name": "Amit Goyal",
     "url": "https://leetcode.com/u/Amit_goyal_24/",
@@ -32799,39 +32832,6 @@
         "statusDisplay": "Accepted",
         "runtime": "53 ms",
         "memory": "70.5 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001635",
-    "name": "Pranshul Sharma",
-    "url": "https://leetcode.com/u/dEBZ3JfVBW/",
-    "section": "K",
-    "dayi": "Hostellers",
-    "mobno": "8218860964",
-    "username": "dEBZ3JfVBW",
-    "totalSolved": 77,
-    "easySolved": 49,
-    "mediumSolved": 24,
-    "hardSolved": 4,
-    "recentSubmissions": [
-      {
-        "id": "1953316292",
-        "title": "3Sum Closest",
-        "timestamp": "1773943923",
-        "statusDisplay": "Accepted",
-        "runtime": "17 ms",
-        "memory": "45.4 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952452405",
-        "title": "3Sum",
-        "timestamp": "1773862257",
-        "statusDisplay": "Accepted",
-        "runtime": "863 ms",
-        "memory": "60 MB",
         "lang": "java"
       }
     ]
@@ -34628,6 +34628,39 @@
     ]
   },
   {
+    "roll": "2315002284",
+    "name": "Tanishq Parashar",
+    "url": "https://leetcode.com/u/Tanishq_parashar/",
+    "section": "R",
+    "dayi": "Day Scholars",
+    "mobno": "8791615323",
+    "username": "Tanishq_parashar",
+    "totalSolved": 70,
+    "easySolved": 42,
+    "mediumSolved": 25,
+    "hardSolved": 3,
+    "recentSubmissions": [
+      {
+        "id": "1954124738",
+        "title": "Single Number",
+        "timestamp": "1774026318",
+        "statusDisplay": "Accepted",
+        "runtime": "9 ms",
+        "memory": "47.6 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954106486",
+        "title": "Contains Duplicate",
+        "timestamp": "1774025194",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "76.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315001955",
     "name": "Sanchit Agrawal",
     "url": "https://leetcode.com/u/_thesanchit/",
@@ -34755,6 +34788,39 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "77.5 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
+    "roll": "2315002285",
+    "name": "Tanishq Parashar",
+    "url": "https://leetcode.com/u/Tanishq_parashar/",
+    "section": "R",
+    "dayi": "Day Scholars",
+    "mobno": "8791615323",
+    "username": "Tanishq_parashar",
+    "totalSolved": 70,
+    "easySolved": 42,
+    "mediumSolved": 25,
+    "hardSolved": 3,
+    "recentSubmissions": [
+      {
+        "id": "1954124738",
+        "title": "Single Number",
+        "timestamp": "1774026318",
+        "statusDisplay": "Accepted",
+        "runtime": "9 ms",
+        "memory": "47.6 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1954106486",
+        "title": "Contains Duplicate",
+        "timestamp": "1774025194",
+        "statusDisplay": "Accepted",
+        "runtime": "25 ms",
+        "memory": "76.3 MB",
         "lang": "java"
       }
     ]
@@ -34892,39 +34958,6 @@
     ]
   },
   {
-    "roll": "2315002284",
-    "name": "Tanishq Parashar",
-    "url": "https://leetcode.com/u/Tanishq_parashar/",
-    "section": "R",
-    "dayi": "Day Scholars",
-    "mobno": "8791615323",
-    "username": "Tanishq_parashar",
-    "totalSolved": 69,
-    "easySolved": 41,
-    "mediumSolved": 25,
-    "hardSolved": 3,
-    "recentSubmissions": [
-      {
-        "id": "1953843828",
-        "title": "Contains Duplicate",
-        "timestamp": "1774003505",
-        "statusDisplay": "Accepted",
-        "runtime": "24 ms",
-        "memory": "76.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953829554",
-        "title": "Height Checker",
-        "timestamp": "1774002164",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "43.3 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
     "roll": "2315000036",
     "name": "ABHINAV KUMAR",
     "url": "https://leetcode.com/u/abhinav__kumar/",
@@ -34958,6 +34991,39 @@
     ]
   },
   {
+    "roll": "2315000686",
+    "name": "Deepak Pandey",
+    "url": "https://leetcode.com/u/Deepak5891Pandey/",
+    "section": "W",
+    "dayi": "Hostellers",
+    "mobno": "7451053578",
+    "username": "Deepak5891Pandey",
+    "totalSolved": 69,
+    "easySolved": 42,
+    "mediumSolved": 26,
+    "hardSolved": 1,
+    "recentSubmissions": [
+      {
+        "id": "1954112257",
+        "title": "Min Stack",
+        "timestamp": "1774025549",
+        "statusDisplay": "Accepted",
+        "runtime": "5 ms",
+        "memory": "47.2 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1953168354",
+        "title": "Next Greater Element I",
+        "timestamp": "1773935397",
+        "statusDisplay": "Accepted",
+        "runtime": "4 ms",
+        "memory": "44.9 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315002391",
     "name": "Vaishnavi varshney",
     "url": "https://leetcode.com/u/kJAnW3FlUl/",
@@ -34986,39 +35052,6 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "42.1 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315002285",
-    "name": "Tanishq Parashar",
-    "url": "https://leetcode.com/u/Tanishq_parashar/",
-    "section": "R",
-    "dayi": "Day Scholars",
-    "mobno": "8791615323",
-    "username": "Tanishq_parashar",
-    "totalSolved": 69,
-    "easySolved": 41,
-    "mediumSolved": 25,
-    "hardSolved": 3,
-    "recentSubmissions": [
-      {
-        "id": "1953843828",
-        "title": "Contains Duplicate",
-        "timestamp": "1774003505",
-        "statusDisplay": "Accepted",
-        "runtime": "24 ms",
-        "memory": "76.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953829554",
-        "title": "Height Checker",
-        "timestamp": "1774002164",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "43.3 MB",
         "lang": "java"
       }
     ]
@@ -35118,39 +35151,6 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "44.2 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315000686",
-    "name": "Deepak Pandey",
-    "url": "https://leetcode.com/u/Deepak5891Pandey/",
-    "section": "W",
-    "dayi": "Hostellers",
-    "mobno": "7451053578",
-    "username": "Deepak5891Pandey",
-    "totalSolved": 68,
-    "easySolved": 42,
-    "mediumSolved": 25,
-    "hardSolved": 1,
-    "recentSubmissions": [
-      {
-        "id": "1953168354",
-        "title": "Next Greater Element I",
-        "timestamp": "1773935397",
-        "statusDisplay": "Accepted",
-        "runtime": "4 ms",
-        "memory": "44.9 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952220395",
-        "title": "Valid Parentheses",
-        "timestamp": "1773847671",
-        "statusDisplay": "Accepted",
-        "runtime": "3 ms",
-        "memory": "43.2 MB",
         "lang": "java"
       }
     ]
@@ -44947,6 +44947,39 @@
     ]
   },
   {
+    "roll": "2315001982",
+    "name": "Sanskar varshney",
+    "url": "https://leetcode.com/u/sanskarvarshney_18/",
+    "section": "W",
+    "dayi": "Day Scholars",
+    "mobno": "7668355018",
+    "username": "sanskarvarshney_18",
+    "totalSolved": 36,
+    "easySolved": 18,
+    "mediumSolved": 18,
+    "hardSolved": 0,
+    "recentSubmissions": [
+      {
+        "id": "1954148359",
+        "title": "Best Time to Buy and Sell Stock",
+        "timestamp": "1774027751",
+        "statusDisplay": "Accepted",
+        "runtime": "2 ms",
+        "memory": "94.4 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1950406476",
+        "title": "Subsets",
+        "timestamp": "1773685984",
+        "statusDisplay": "Accepted",
+        "runtime": "1 ms",
+        "memory": "44.3 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315510141",
     "name": "VIVEKANAND PEDADA",
     "url": "https://leetcode.com/u/Vivekanand_Pedada/",
@@ -45173,39 +45206,6 @@
         "statusDisplay": "Accepted",
         "runtime": "20 ms",
         "memory": "52.4 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315001982",
-    "name": "Sanskar varshney",
-    "url": "https://leetcode.com/u/sanskarvarshney_18/",
-    "section": "W",
-    "dayi": "Day Scholars",
-    "mobno": "7668355018",
-    "username": "sanskarvarshney_18",
-    "totalSolved": 35,
-    "easySolved": 17,
-    "mediumSolved": 18,
-    "hardSolved": 0,
-    "recentSubmissions": [
-      {
-        "id": "1950406476",
-        "title": "Subsets",
-        "timestamp": "1773685984",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "44.3 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1950320255",
-        "title": "Kth Largest Element in an Array",
-        "timestamp": "1773681686",
-        "statusDisplay": "Accepted",
-        "runtime": "28 ms",
-        "memory": "70.2 MB",
         "lang": "java"
       }
     ]
@@ -48096,6 +48096,39 @@
     ]
   },
   {
+    "roll": "2315002020",
+    "name": "Shaan Yadav",
+    "url": "https://leetcode.com/u/shaan_07/",
+    "section": "AC",
+    "dayi": "Hostellers",
+    "mobno": "8737935387",
+    "username": "shaan_07",
+    "totalSolved": 25,
+    "easySolved": 9,
+    "mediumSolved": 12,
+    "hardSolved": 4,
+    "recentSubmissions": [
+      {
+        "id": "1954094412",
+        "title": "Minimum Absolute Difference in Sliding Submatrix",
+        "timestamp": "1774024418",
+        "statusDisplay": "Accepted",
+        "runtime": "22 ms",
+        "memory": "47.7 MB",
+        "lang": "java"
+      },
+      {
+        "id": "1952701129",
+        "title": "Search in Rotated Sorted Array II",
+        "timestamp": "1773897166",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "45.1 MB",
+        "lang": "java"
+      }
+    ]
+  },
+  {
     "roll": "2315000930",
     "name": "Harshit Gangwar",
     "url": "https://leetcode.com/u/Harshitgangwar/",
@@ -48289,39 +48322,6 @@
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "46.9 MB",
-        "lang": "java"
-      }
-    ]
-  },
-  {
-    "roll": "2315002020",
-    "name": "Shaan Yadav",
-    "url": "https://leetcode.com/u/shaan_07/",
-    "section": "AC",
-    "dayi": "Hostellers",
-    "mobno": "8737935387",
-    "username": "shaan_07",
-    "totalSolved": 24,
-    "easySolved": 9,
-    "mediumSolved": 11,
-    "hardSolved": 4,
-    "recentSubmissions": [
-      {
-        "id": "1952701129",
-        "title": "Search in Rotated Sorted Array II",
-        "timestamp": "1773897166",
-        "statusDisplay": "Accepted",
-        "runtime": "0 ms",
-        "memory": "45.1 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952694373",
-        "title": "Count Submatrices With Equal Frequency of X and Y",
-        "timestamp": "1773896606",
-        "statusDisplay": "Accepted",
-        "runtime": "47 ms",
-        "memory": "285.8 MB",
         "lang": "java"
       }
     ]

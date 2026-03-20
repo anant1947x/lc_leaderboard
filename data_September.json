@@ -1003,21 +1003,21 @@
     "hardSolved": 49,
     "recentSubmissions": [
       {
+        "id": "1954084276",
+        "title": "Remove Element",
+        "timestamp": "1774023745",
+        "statusDisplay": "Accepted",
+        "runtime": "0 ms",
+        "memory": "43.8 MB",
+        "lang": "java"
+      },
+      {
         "id": "1953237911",
         "title": "Search Insert Position",
         "timestamp": "1773939599",
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "44.6 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1952247125",
-        "title": "Unique Binary Search Trees II",
-        "timestamp": "1773849514",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "46.3 MB",
         "lang": "java"
       }
     ]
@@ -7653,21 +7653,21 @@
     "hardSolved": 8,
     "recentSubmissions": [
       {
+        "id": "1954163498",
+        "title": "Longest Substring Without Repeating Characters",
+        "timestamp": "1774028680",
+        "statusDisplay": "Accepted",
+        "runtime": "6 ms",
+        "memory": "46.4 MB",
+        "lang": "java"
+      },
+      {
         "id": "1954001814",
         "title": "Move Zeroes",
         "timestamp": "1774017718",
         "statusDisplay": "Accepted",
         "runtime": "1 ms",
         "memory": "47.8 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1953986554",
-        "title": "Maximum Subarray",
-        "timestamp": "1774016572",
-        "statusDisplay": "Accepted",
-        "runtime": "1 ms",
-        "memory": "77.2 MB",
         "lang": "java"
       }
     ]
@@ -13462,15 +13462,6 @@
         "statusDisplay": "Accepted",
         "runtime": "0 ms",
         "memory": "41.5 MB",
-        "lang": "java"
-      },
-      {
-        "id": "1580101204",
-        "title": "Find the Difference",
-        "timestamp": "1742465302",
-        "statusDisplay": "Accepted",
-        "runtime": "2 ms",
-        "memory": "42.4 MB",
         "lang": "java"
       }
     ]
